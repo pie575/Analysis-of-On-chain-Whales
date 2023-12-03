@@ -1,5 +1,5 @@
-# IW-2023
-Repository used to record the documents and all code used for Jackie Chen's independent research, code provided. Wallet addresses have been expunged for privacy reasons.
+# Analysis of On-chain Whales
+Repository used to record the documents and all code used for Jackie Chen's independent research. Some data has been expunged for privacy reasons.
 This project was presented at the Princeton Spring DeCenter Conference in front of Joseph Lubin and Ed Felten where it won second place for best research.
 
 Special thanks to Professor Pramod Viswanath and Bofan Ji for helping me in analysis.
